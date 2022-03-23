@@ -87,6 +87,11 @@
 		</Item>
 		<Item Name="基本运动参考例程(new).vi" Type="VI" URL="../基本运动参考例程(new).vi"/>
 		<Item Name="基本运动参考例程.vi" Type="VI" URL="../手册/基本运动参考例程.vi"/>
+<<<<<<< HEAD
+=======
+		<Item Name="Test.vi" Type="VI" URL="../../Users/Fred Guo/Documents/LabVIEW Data/DQMH Module Templates/Source - 副本/StateMachine/Test.vi"/>
+		<Item Name="Insert error VI.vi" Type="VI" URL="../../Users/Fred Guo/Documents/Insert error VI.vi"/>
+>>>>>>> bf2249281191e3739274c70476c496e7ea44fe53
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="DSDisposePtr.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/importsl/DSDisposePtr.vi"/>
@@ -145,6 +150,15 @@
 				<Item Name="Clear Button.ctl" Type="VI" URL="/&lt;vilib&gt;/Retry/UI Control Suite/Boolean/System Buttons/Clear Button.ctl"/>
 				<Item Name="Refresh2 Button.ctl" Type="VI" URL="/&lt;vilib&gt;/Retry/UI Control Suite/Boolean/System Buttons/Refresh2 Button.ctl"/>
 				<Item Name="Stop Button.ctl" Type="VI" URL="/&lt;vilib&gt;/Retry/UI Control Suite/Boolean/System Buttons/Stop Button.ctl"/>
+<<<<<<< HEAD
+=======
+				<Item Name="Qualified Name Array To Single String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Qualified Name Array To Single String.vi"/>
+				<Item Name="Insert_Rewire Terminal.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/QuickDropSupport/Insert_Rewire Terminal.vi"/>
+				<Item Name="Insert_Reposition Node Vertically.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/QuickDropSupport/Insert_Reposition Node Vertically.vi"/>
+				<Item Name="Insert_Fix Node Terminals.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/QuickDropSupport/Insert_Fix Node Terminals.vi"/>
+				<Item Name="VIAnUtil Check Type If ErrClust.vi" Type="VI" URL="/&lt;vilib&gt;/addons/analyzer/_analyzerutils.llb/VIAnUtil Check Type If ErrClust.vi"/>
+				<Item Name="VIAnUtil Get Terminal Data Type.vi" Type="VI" URL="/&lt;vilib&gt;/addons/analyzer/_analyzerutils.llb/VIAnUtil Get Terminal Data Type.vi"/>
+>>>>>>> bf2249281191e3739274c70476c496e7ea44fe53
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
 			<Item Name="systemLogging.dll" Type="Document" URL="systemLogging.dll">
